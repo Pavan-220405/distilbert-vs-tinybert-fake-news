@@ -1,4 +1,4 @@
-### Open the PDF if .ipynb doesn't get displayed. You can download it for verification 
+### Open the PDF if .ipynb doesn't show up. You can download it for verification 
 
 # Fake News Classification using DistilBERT and TinyBERT
 
