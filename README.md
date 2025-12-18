@@ -1,9 +1,10 @@
+### Open the PDF if .ipynb doesn't get displayed. You can download it for verification 
+
 # Fake News Classification using DistilBERT and TinyBERT
 
 This repository presents a comparative study of transformer-based models for fake news classification. The project fine-tunes and evaluates two lightweight BERT variants — DistilBERT and TinyBERT — to analyze their performance, efficiency, and suitability for real-world NLP classification tasks.
 
 ---
-### Open the PDF if .ipynb doesn't get displayed. You can download it for verification 
 
 ## Project Overview
 
